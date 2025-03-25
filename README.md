@@ -19,8 +19,8 @@ Previously at **Atlassian**, where I learned a ton about scale, strategy, and th
 
 ## 📫 Let’s Connect
 - Personal site: [vtran.dev](https://vtran.dev)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle) *(optional)*
-- Email: vincent@vtran.dev *(set this up if you haven’t yet)*
+- LinkedIn: [https://www.linkedin.com/in/vince-thien-tran](https://www.linkedin.com/in/vince-thien-tran/)
+- Email: vincent@vtran.dev
 
 ---
 
